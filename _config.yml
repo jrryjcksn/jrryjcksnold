@@ -29,7 +29,7 @@ twitter_username: jrryjcksn
 github_username:  jrryjcksn
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
